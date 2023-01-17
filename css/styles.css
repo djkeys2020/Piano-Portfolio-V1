@@ -1,3 +1,6 @@
+em.seo, strong.seo {
+}
+
 .top-heading {
     margin: auto;
     width: 75%;
@@ -32,7 +35,6 @@ h1 {
     margin-top: 40px;
     margin-bottom: 40px;
     width: 75%;
-    text-align: center;
 }
 
 iframe {
