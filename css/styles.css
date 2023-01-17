@@ -4,7 +4,7 @@
     color: black;
     background-color: gray;
     border: solid white;
-    padding: 20px
+    padding: 10px 20px
 }
 
 body {
@@ -34,7 +34,6 @@ h1 {
     width: 75%;
     text-align: center;
 }
-
 
 iframe {
     display: block;
