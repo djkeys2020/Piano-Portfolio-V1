@@ -1,5 +1,6 @@
 em.seo, strong.seo {
-    margin: auto
+    text-align: justify;
+    display: inline-block
 }
 
 .top-heading {
